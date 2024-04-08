@@ -7,7 +7,7 @@ def reconhecerStrings():
             tokens_por_linha.append((num_linha, tokens))  # Adiciona a lista de tokens com o número da linha
     return tokens_por_linha
 
-# def verificarToken(afd, token, tabela_de_simbolos, num_linha):
+def verificarToken(afd, token, tabela_de_simbolos, num_linha):
     estado = 0  # Inicializa a posição como 0 (que corresponde à estado inicial)
 
     for simbolo in token:
