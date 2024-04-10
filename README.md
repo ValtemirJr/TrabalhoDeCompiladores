@@ -1,2 +1,2 @@
 # TrabalhoDeCompiladores
-Trabalho 1: Analisador Lêxico
+Trabalho 1: Analisador Léxico
