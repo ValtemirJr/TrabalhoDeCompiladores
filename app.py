@@ -45,5 +45,5 @@ eliminarInalcancaveis(afd)
 # exibirAutomatoDeterministico(afd, alfabeto)s
 eliminarInuteis(afd)
 #print('\n Após eliminar inúteis:')
-#exibirAutomatoDeterministico(afd, alfabeto)
+exibirAutomatoDeterministico(afd, alfabeto)
 fazerAnaliseLexica(afd)
